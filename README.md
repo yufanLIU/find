@@ -3,7 +3,7 @@ Find-Who-to-Look-at
 The video eye-tracking database containing the fixation data of 65 multiple-face videos from YouTube and Youku, established by Yufan Liu, Mai Xu in Beihang University (2016).
 
 ## Usage of Database
-See 'our_database' for the database and eye tracking data. All fixation data are recorded in **'video_database.mat'**, where you can find
+See **'our_database'** for the database and eye tracking data. All fixation data are recorded in **'video_database.mat'**, where you can find
 
 * videos_info: the information of 65 videos 
 
