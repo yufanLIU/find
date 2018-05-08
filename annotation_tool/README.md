@@ -1,5 +1,5 @@
 Landmark Annotaion tool
-==================================
+-------------------------
 This is a Matlab software for annotating facial landmarks.
 
 ## Usage
