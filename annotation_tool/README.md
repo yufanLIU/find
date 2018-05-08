@@ -13,4 +13,7 @@ This is a Matlab software for annotating facial landmarks.
  4. './photo/': the path of the images (or frames of videos) to be annotated.
     './landmark/':the path of the annotated landmark.
 
+## Contact
+Should you have any queries, please contact fannie_lyf@buaa.edu.cn / yufan.liu@ia.ac.cn
+
 Have fun!
