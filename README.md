@@ -22,7 +22,7 @@ See 'our_database' for the database and eye tracking data. All fixation data are
     '4: GazeDuration'
     '5-6: fixation position (take upper-lift corner as origin )'
    
-e.g. If a row in fixdata is '6 29 4084 183 467 319', that means this fixation is in '029.avi' recorded from JL. The start time and the duration of this fixation is 4084ms and 183ms, respectively, with the location (467,391).
+e.g. If a row in fixdata is '6 29 4084 183 467 319', that means this fixation is in '029.avi' recorded from 'ZMX'. The start time and the duration of this fixation is 4084ms and 183ms, respectively, with the location (467,391).
 
 As a test, you can run **'demo.m'** to view the heatmaps of the target video.  
 
