@@ -26,7 +26,9 @@ e.g. If a row in fixdata is '6 29 4084 183 467 319', that means this fixation is
 
 As a test, you can run **'demo.m'** to view the heatmaps of the target video.  
 
-## Annotaion Results
+## Annotaion
+**'annotation_tool'**: A Matlab software for annotating facial landmarks.
+
 **'annotated_facial_landmarks'**: The annotation of facial landmarks, for 65 videos. 'final**i**.mat' is the landmark annotation of the i-th video.
 
 **'annotated_speaking_feature'**: The annotation of speaking feature, for 65 videos. 'mouthMotion**i**.mat' is the speaking feature annotation of the i-th video.
